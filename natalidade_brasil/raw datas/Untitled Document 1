@@ -1,0 +1,10 @@
+dados com périodo 2000-2024
+fonte - http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinasc/cnv/nvbr.def
+
+
+Legenda:
+
+-	- Dado numérico igual a 0 não resultante de arredondamento.
+0; 0,0	- Dado numérico igual a 0 resultante de arredondamento de um dado originalmente positivo.
+
+* A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat). Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
